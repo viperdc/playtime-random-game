@@ -1,0 +1,8 @@
+Name: Random Game Selector
+Author: ViperDC
+Version: 1.0
+Module: RandomGame.ps1
+Type: Script
+Functions: 
+    - Description: Select Random Game
+      FunctionName: RandomGame
